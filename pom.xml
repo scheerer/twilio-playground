@@ -12,7 +12,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
 
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.2.13</logback.version>
         <lombok.version>1.18.12</lombok.version>
         <slf4j.version>1.7.26</slf4j.version>
         <sparkjava.version>2.7.2</sparkjava.version>
